@@ -4,8 +4,8 @@
 website:
   title: "MD AZHAR UDDIN"                                # Your name
   description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
   image: img/az.jpg
+  
   
   favicon: img/favicon.png
   
