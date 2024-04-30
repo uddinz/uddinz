@@ -2,17 +2,15 @@
 
 # website settings
 website:
-  title: "MD AZHAR UDDIN"                                # Your name
+  title: "Md Azhar Uddin"                                # Your name
   description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/az.jpg
-  
-  
   favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/uflogo.png
     
     # your sub-pages
     left:
