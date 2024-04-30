@@ -8,7 +8,7 @@ engine: knitr
 resources:
   - "cv.pdf"
 cv:
-  pdf: "cv.pdf"
+  pdf: "CV_May01.pdf"
 ---
 
 ```{css echo=FALSE}
